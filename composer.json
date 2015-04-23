@@ -2,6 +2,7 @@
 	"name": "iqnection/silverstripe-installer",
 	"description": "The SilverStripe Framework Installer",
 	"keywords": ["iqnection"],
+	"license": "BSD-3-Clause",
 	"require": {
 		"php": ">=5.3.2",
 		"silverstripe/cms": "3.*",
