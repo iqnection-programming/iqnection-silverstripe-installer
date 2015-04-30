@@ -16,7 +16,8 @@
 		"silverstripe/framework": "3.*",
 		"iqnection-themes/mysite": "*",
 		"nathancox/minify": "dev-SS-3.0",
-		"undefinedoffset/sortablegridfield": "*"
+		"undefinedoffset/sortablegridfield": "*",
+		"iqnection-pages/basepages":"*"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7@stable"
