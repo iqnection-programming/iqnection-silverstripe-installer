@@ -9,3 +9,5 @@ After:
 # Caution: Indentation through two spaces, not tabs
 SSViewer:
   theme: 'mysite'
+Director:
+  environment_type: 'dev'
