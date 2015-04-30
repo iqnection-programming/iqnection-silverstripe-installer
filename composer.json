@@ -17,7 +17,9 @@
 		"iqnection-themes/mysite": "*",
 		"nathancox/minify": "dev-SS-3.0",
 		"undefinedoffset/sortablegridfield": "*",
-		"iqnection-pages/basepages":"*"
+		"iqnection-pages/basepages":"*",
+		"iqnection-modules/seo":"*",
+		"iqnection-modules/socialmedia":"*"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7@stable"
