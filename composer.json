@@ -18,6 +18,7 @@
 		"nathancox/minify": "dev-SS-3.0",
 		"undefinedoffset/sortablegridfield": "*",
 		"iqnection-pages/basepages":"*",
+		"iqnection-modules/pagebuilder":"*",
 		"iqnection-modules/seo":"*",
 		"iqnection-modules/socialmedia":"*"
 	},
