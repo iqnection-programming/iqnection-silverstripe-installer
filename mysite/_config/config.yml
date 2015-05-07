@@ -13,4 +13,4 @@ Director:
   environment_type: 'dev'
 SiteConfig:
   extensions:
-    - Custom_SocialMedia
+    - SiteConfig_Custom
