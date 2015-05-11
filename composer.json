@@ -16,6 +16,8 @@
 		"silverstripe/framework": "3.*",
 		"iqnection-themes/mysite": "0.0.1",
 		"nathancox/minify": "dev-SS-3.0",
+		"froog/simplify": "1.3.0.*@dev",
+		"unclecheese/betterbuttons": "*",
 		"undefinedoffset/sortablegridfield": "*",
 		"iqnection-pages/basepages":"*",
 		"iqnection-modules/pagebuilder":"*",
