@@ -14,3 +14,6 @@ Director:
 SiteConfig:
   extensions:
     - SiteConfig_Custom
+LeftAndMain:
+  extra_requirements_css:
+    - mysite/css/leftandmainextras.css

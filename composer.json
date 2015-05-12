@@ -23,7 +23,8 @@
 		"iqnection-pages/basepages":"*",
 		"iqnection-modules/pagebuilder":"*",
 		"iqnection-modules/seo":"*",
-		"iqnection-modules/socialmedia":"*"
+		"iqnection-modules/socialmedia":"*",
+		"iqnection-modules/security": "0.0.*"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7@stable"
