@@ -14,7 +14,7 @@
 		"composer/installers":"*",
 		"silverstripe/cms": "3.*",
 		"silverstripe/framework": "3.*",
-		"iqnection-themes/mysite": "0.0.7",
+		"iqnection-themes/mysite": "0.0.*",
 		"nathancox/minify": "dev-SS-3.0",
 		"unclecheese/betterbuttons": "*",
 		"silverstripe/googlesitemaps": "*",
