@@ -14,16 +14,16 @@
 		"composer/installers":"*",
 		"silverstripe/cms": "3.*",
 		"silverstripe/framework": "3.*",
-		"iqnection-themes/mysite": "0.0.*",
+		"iqnection-themes/mysite": "1.0.*",
 		"nathancox/minify": "dev-SS-3.0",
 		"unclecheese/betterbuttons": "*",
 		"silverstripe/googlesitemaps": "*",
 		"undefinedoffset/sortablegridfield": "*",
-		"iqnection-pages/basepages":"*",
-		"iqnection-modules/pagebuilder":"*",
-		"iqnection-modules/seo":"*",
-		"iqnection-modules/socialmedia":"*",
-		"iqnection-modules/security": "0.0.*"
+		"iqnection-pages/basepages":"0.2.*",
+		"iqnection-modules/pagebuilder":"1.0.*",
+		"iqnection-modules/seo":"1.0.*",
+		"iqnection-modules/socialmedia":"1.0.*",
+		"iqnection-modules/security": "1.0.*"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7@stable"
