@@ -2,10 +2,13 @@
 # Change Log
 
 
+## [1.0.2]
+- Updated composer.json for version 1.0 base pages module
+
+
 ## [1.0.1]
 - Added better buttons for "Save and New"
 - Added robots.txt base file
-
 
 
 ## [1.0.0]

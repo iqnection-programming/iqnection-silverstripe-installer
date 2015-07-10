@@ -19,7 +19,7 @@
 		"unclecheese/betterbuttons": "*",
 		"silverstripe/googlesitemaps": "*",
 		"undefinedoffset/sortablegridfield": "*",
-		"iqnection-pages/basepages":"0.2.*",
+		"iqnection-pages/basepages":"1.0.*",
 		"iqnection-modules/pagebuilder":"1.0.*",
 		"iqnection-modules/seo":"1.0.*",
 		"iqnection-modules/socialmedia":"1.0.*",
