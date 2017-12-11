@@ -1,5 +1,5 @@
 {
-	"name": "iqnection/silverstripe4-installer",
+	"name": "iqnection/silverstripe-installer",
 	"description": "IQnection SilverStripe 4 Framework Installer",
 	"keywords": ["iqnection"],
 	"license": "BSD-3-Clause",
