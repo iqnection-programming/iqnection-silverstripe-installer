@@ -14,9 +14,12 @@
         "silverstripe/recipe-cms": "1.0.0@stable",
 		"wilr/silverstripe-googlesitemaps": "*",
 		"undefinedoffset/sortablegridfield": "*",
-		"iqnection-modules/seo":"*",
-		"iqnection-pages/basepages" : "*",
-		"iqnection-themes/mysite" : "2.0.0"
+		"iqnection-modules/seo":"dev-master",
+		"iqnection-pages/basepages" : "dev-master",
+		"iqnection-themes/mysite" : "dev-master",
+		"iqnection-modules/linkfield" : "dev-master",
+		"iqnection-modules/embededcontent" : "dev-master",
+		"iqnection-modules/pagebuilder" : "dev-master"
 	},
 	"require-dev": {
         "phpunit/PHPUnit": "^5.7"
