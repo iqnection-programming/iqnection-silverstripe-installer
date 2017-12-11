@@ -10,6 +10,9 @@ After:
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
     - MySiteConfigExtension
+SilverStripe\View\SSViewer:
+  themes:
+    - mysite
 #BetterButtonsActions:
 #  create:
 #    BetterButton_Save: true
