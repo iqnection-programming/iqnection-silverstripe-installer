@@ -1,6 +1,6 @@
 {
 	"name": "iqnection/silverstripe-installer",
-	"description": "IQnection SilverStripe 4 Framework Installer",
+	"description": "IQnection SilverStripe Framework Installer",
 	"keywords": ["iqnection"],
 	"license": "BSD-3-Clause",
 	"authors": [
@@ -14,12 +14,19 @@
         "silverstripe/recipe-cms": "1.0.0@stable",
 		"wilr/silverstripe-googlesitemaps": "*",
 		"undefinedoffset/sortablegridfield": "*",
-		"iqnection-modules/seo":"2.0.*",
-		"iqnection-pages/basepages" : "2.0.*",
-		"iqnection-themes/mysite" : "2.0.1",
-		"iqnection-modules/linkfield" : "2.0.*",
-		"iqnection-modules/embededcontent" : "2.0.*",
-		"iqnection-modules/pagebuilder" : "2.0.*"
+		"axllent/silverstripe-minifier": "^1.0",
+		"unclecheese/betterbuttons": "dev-master",
+		"jonom/silverstripe-betternavigator": "^4.0",
+		"iqnection-modules/seo":"^2.0",
+		"iqnection-pages/basepages" : "^2.0",
+		"iqnection-themes/mysite" : "2.0.2",
+		"iqnection-modules/linkfield" : "^2.0",
+		"iqnection-modules/embededcontent" : "^2.0",
+		"iqnection-modules/pagebuilder" : "^2.0",
+		"iqnection-pages/photogallerypage": "^2.0",
+        "iqnection-pages/faqpage": "^2.0",
+        "iqnection-pages/videogallerypage": "^2.0",
+		"iqnection-pages/minisitepage" : "^2.0"
 	},
 	"require-dev": {
         "phpunit/PHPUnit": "^5.7"
