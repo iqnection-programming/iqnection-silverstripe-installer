@@ -2,6 +2,11 @@
 # Change Log
 
 
+## [2.0.2]
+- Added packages to base build:
+	- iqnection-pages/staffpage
+	- iqnection-pages/appointmentpage
+
 ## [2.0.1]
 - Added CSS & JS minifier (axllent/silverstripe-minifier)
 - Added Better Buttons, even though there are still some little bugs (unclecheese/betterbuttons)

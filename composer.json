@@ -26,7 +26,9 @@
 		"iqnection-pages/photogallerypage": "^2.0",
         "iqnection-pages/faqpage": "^2.0",
         "iqnection-pages/videogallerypage": "^2.0",
-		"iqnection-pages/minisitepage" : "^2.0"
+		"iqnection-pages/minisitepage" : "^2.0",
+		"iqnection-pages/appointmentpage" : "^2.0",
+		"iqnection-pages/staffpage" : "^2.0"
 	},
 	"require-dev": {
         "phpunit/PHPUnit": "^5.7"
