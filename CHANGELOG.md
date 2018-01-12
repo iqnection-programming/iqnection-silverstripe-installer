@@ -2,6 +2,9 @@
 # Change Log
 
 
+## [2.0.3]
+- updated mysite theme package
+
 ## [2.0.2]
 - Added packages to base build:
 	- iqnection-pages/staffpage
