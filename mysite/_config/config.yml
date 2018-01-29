@@ -23,4 +23,4 @@ BetterButtonsActions:
     BetterButton_SaveAndClose: true
     BetterButton_SaveAndAdd: true
     BetterButton_Delete: true
-    BetterButtonFrontendLinksAction: true
+    BetterButtonFrontendLinksAction: false
