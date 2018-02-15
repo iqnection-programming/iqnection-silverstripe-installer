@@ -1,6 +1,10 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.0.5]
+- removed "After" declaration in config.yml
+- Updated composer.json to use latest version of silverstripe/recipe-cms: 1.0.0
+
 ## [2.0.4]
 - updated mysite theme package
 
