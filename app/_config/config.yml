@@ -7,6 +7,8 @@ Name: mysite
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
     - MySiteConfigExtension
+SilverStripe\Core\Manifest\ModuleManifest:
+  project: app
 SilverStripe\View\SSViewer:
   themes:
     - mysite

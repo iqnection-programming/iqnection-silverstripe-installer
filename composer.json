@@ -1,6 +1,7 @@
 {
 	"name": "iqnection/silverstripe-installer",
 	"description": "IQnection SilverStripe Framework Installer",
+	"type": "silverstripe-project",
 	"keywords": ["iqnection"],
 	"license": "BSD-3-Clause",
 	"authors": [
@@ -17,18 +18,18 @@
 		"axllent/silverstripe-minifier": "^1.0",
 		"unclecheese/betterbuttons": "dev-master",
 		"jonom/silverstripe-betternavigator": "^4.0",
-		"iqnection-modules/seo":"^2.0",
-		"iqnection-pages/basepages" : "^2.0",
-		"iqnection-themes/mysite" : "2.0.7",
-		"iqnection-modules/linkfield" : "^2.0",
-		"iqnection-modules/embededcontent" : "^2.0",
-		"iqnection-modules/pagebuilder" : "^2.0",
-		"iqnection-pages/photogallerypage": "^2.0",
-        "iqnection-pages/faqpage": "^2.0",
-        "iqnection-pages/videogallerypage": "^2.0",
-		"iqnection-pages/minisitepage" : "^2.0",
-		"iqnection-pages/appointmentpage" : "^2.0",
-		"iqnection-pages/staffpage" : "^2.0"
+		"iqnection-modules/seo":"^2.1",
+		"iqnection-pages/basepages" : "^2.1",
+		"iqnection-themes/mysite" : "2.1.0",
+		"iqnection-modules/linkfield" : "^2.1",
+		"iqnection-modules/embededcontent" : "^2.1",
+		"iqnection-modules/pagebuilder" : "^2.1",
+		"iqnection-pages/photogallerypage": "^2.1",
+        "iqnection-pages/faqpage": "^2.1",
+        "iqnection-pages/videogallerypage": "^2.1",
+		"iqnection-pages/minisitepage" : "^2.1",
+		"iqnection-pages/appointmentpage" : "^2.1",
+		"iqnection-pages/staffpage" : "^2.1"
 	},
 	"require-dev": {
         "phpunit/PHPUnit": "^5.7"

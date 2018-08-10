@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.1]
+- More SS 4+ updates
+
 ## [2.1.0]
 - Added /public/ directory
 
