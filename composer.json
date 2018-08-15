@@ -22,7 +22,7 @@
 		"iqnection-pages/basepages" : "^2.1",
 		"iqnection-themes/mysite" : "2.1.0",
 		"iqnection-modules/linkfield" : "^2.1",
-		"iqnection-modules/embededcontent" : "^2.1",
+		"iqnection-modules/embeddedcontent" : "^2.1",
 		"iqnection-modules/pagebuilder" : "^2.1",
 		"iqnection-pages/photogallerypage": "^2.1",
         "iqnection-pages/faqpage": "^2.1",
