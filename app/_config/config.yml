@@ -12,6 +12,14 @@ SilverStripe\Core\Manifest\ModuleManifest:
 SilverStripe\View\SSViewer:
   themes:
     - mysite
+BetterButtonsUtils:
+  edit:
+    BetterButtonPrevNextAction: false
+    BetterButton_New: false
+  versioned_edit:
+    BetterButtonPrevNextAction: false
+    BetterButton_New: false
+
 BetterButtonsActions:
   create:
     BetterButton_Save: true
