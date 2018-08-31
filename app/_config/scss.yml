@@ -1,0 +1,5 @@
+---
+Name: mysitescss
+---
+Axllent\Scss\ScssCompiler:
+  theme_dir: 'resources/themes/mysite'

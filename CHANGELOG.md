@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.2]
+- added support for scss
+
 ## [2.1.1]
 - More SS 4+ updates
 
