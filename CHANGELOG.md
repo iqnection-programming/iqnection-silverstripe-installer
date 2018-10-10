@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.4]
+- Forked BetterButtons with bugs worked out
+
 ## [2.1.3]
 - Updated dependancies
 
