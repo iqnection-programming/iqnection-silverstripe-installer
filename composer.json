@@ -7,12 +7,12 @@
 	"authors": [
         {
             "name": "IQnection",
-            "homepage": "http://www.iqnection.com"
+            "homepage": "https://www.iqnection.com"
         }
     ],
 	"require": {
 		"php": ">=5.6.0",
-        "silverstripe/recipe-cms": "^4.2.0@stable",
+        "silverstripe/recipe-cms": "^4.3.0@stable",
 		"wilr/silverstripe-googlesitemaps": "*",
 		"undefinedoffset/sortablegridfield": "*",
 		"axllent/silverstripe-minifier": "^1.0",
@@ -21,7 +21,7 @@
 		"axllent/silverstripe-scss": "^1.0",
 		"iqnection-modules/seo":"^2.1",
 		"iqnection-pages/basepages" : "^2.2",
-		"iqnection-themes/mysite" : "2.2.3",
+		"iqnection-themes/mysite" : "2.2.4",
 		"iqnection-modules/linkfield" : "^2.1",
 		"iqnection-modules/embeddedcontent" : "^2.1",
 		"iqnection-modules/pagebuilder" : "^2.1",

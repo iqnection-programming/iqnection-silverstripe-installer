@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.6]
+- Updated composer.json for theme package update
+
 ## [2.1.5]
 - Moved robots.txt into /public directory
 - Updated composer.json for theme package update
