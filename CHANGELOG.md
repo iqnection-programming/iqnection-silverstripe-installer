@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.7]
+- Updated composer to latest IQnection "mysite" theme package
+
 ## [2.1.6]
 - Updated composer.json for theme package update
 
