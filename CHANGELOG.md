@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.8]
+- Added my own home page icon for the CMS
+
 ## [2.1.7]
 - Updated composer to latest IQnection "mysite" theme package
 
