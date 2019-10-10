@@ -25,12 +25,13 @@
 		"iqnection-modules/linkfield" : "^2.1",
 		"iqnection-modules/embeddedcontent" : "^2.1",
 		"iqnection-modules/pagebuilder" : "^2.1",
-		"iqnection-pages/photogallerypage": "^2.1",
+		"iqnection-pages/photogallerypage": "^2.2",
         "iqnection-pages/faqpage": "^2.1",
         "iqnection-pages/videogallerypage": "^2.1",
 		"iqnection-pages/minisitepage" : "^2.1",
 		"iqnection-pages/appointmentpage" : "^2.1",
-		"iqnection-pages/staffpage" : "^2.2"
+		"iqnection-pages/staffpage" : "^2.2",
+		"iqnection-modules/image-utilities":"^0.0.1"
 	},
 	"repositories": [{
 		"type": "vcs",
