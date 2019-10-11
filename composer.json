@@ -43,11 +43,6 @@
 	"config": {
 		"process-timeout": 600
 	},
-	"extra": {
-		"expose": [
-			"images"
-		]
-	},
 	"prefer-stable": true,
 	"minimum-stability": "dev"
 }
