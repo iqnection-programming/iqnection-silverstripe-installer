@@ -21,7 +21,7 @@
 		"axllent/silverstripe-scss": "^1.0",
 		"iqnection-modules/seo":"^2.1",
 		"iqnection-pages/basepages" : "^2.2",
-		"iqnection-themes/mysite" : "2.2.5",
+		"iqnection-themes/mysite" : "2.2.6",
 		"iqnection-modules/linkfield" : "^2.1",
 		"iqnection-modules/embeddedcontent" : "^2.1",
 		"iqnection-modules/pagebuilder" : "^2.1",

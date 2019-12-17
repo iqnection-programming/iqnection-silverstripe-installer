@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.10]
+- Package requirement updates
+
 ## [2.1.9]
 - Added home page icon for CMS
 

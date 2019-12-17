@@ -3,7 +3,7 @@
 
 class HomePage extends Page 
 {
-	private static $icon = "iqnection-pages/basepages:images/home-page-icon.png";
+	private static $icon = "iqnection-pages/basepages:images/icons/home-page-icon.png";
 	
 	private static $db = [];
 	
