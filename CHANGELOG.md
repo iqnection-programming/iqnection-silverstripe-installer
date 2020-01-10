@@ -1,6 +1,9 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [2.1.11]
+- Updated to include the installer in SS 4.5+
+
 ## [2.1.10]
 - Package requirement updates
 
