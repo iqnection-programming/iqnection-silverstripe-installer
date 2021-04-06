@@ -28,12 +28,6 @@
 		"iqnection/silverstripe-heading-page": "*",
 		"iqnection-themes/mysite" : "dev-master",
 		"iqnection-modules/embeddedcontent" : "^2.1",
-		"iqnection-pages/photogallerypage": "^2.2",
-        "iqnection-pages/faqpage": "^2.1",
-        "iqnection-pages/videogallerypage": "^2.1",
-		"iqnection-pages/minisitepage" : "^2.1",
-		"iqnection-pages/appointmentpage" : "^2.1",
-		"iqnection-pages/staffpage" : "^2.2",
 		"iqnection-modules/image-utilities":"dev-master",
 		"iqnection/silverstripe-wordpress-integration": "^1.0"
 	},
