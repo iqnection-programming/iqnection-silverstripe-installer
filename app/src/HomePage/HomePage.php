@@ -3,10 +3,8 @@
 
 class HomePage extends Page 
 {
-	private static $icon = "iqnection-pages/basepages:images/icons/home-page-icon.png";
-	
-	private static $db = [];
-	
+	private static $icon_class = 'font-icon-p-home';
+
 	public function getCMSFields()
 	{
 		$fields = parent::getCMSFields();

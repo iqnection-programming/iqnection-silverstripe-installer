@@ -1,4 +1,4 @@
 ## Overview
-IQnection installer for SilverStripe 4 websites
+IQnection installer recipe for SilverStripe 4 websites
 
-composer create-project iqnection/silverstripe4-installer ./
+composer create-project iqnection/silverstripe-installer ./

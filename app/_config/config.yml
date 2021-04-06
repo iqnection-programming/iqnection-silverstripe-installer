@@ -6,30 +6,9 @@ Name: mysite
 # Caution: Indentation through two spaces, not tabs
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
-    - MySiteConfigExtension
+    - Mysite\SiteConfig\SiteConfigExtension
 SilverStripe\Core\Manifest\ModuleManifest:
   project: app
-SilverStripe\View\SSViewer:
-  themes:
-    - mysite
-BetterButtonsUtils:
-  edit:
-    BetterButtonPrevNextAction: false
-    BetterButton_New: false
-  versioned_edit:
-    BetterButtonPrevNextAction: false
-    BetterButton_New: false
 
-BetterButtonsActions:
-  create:
-    BetterButton_Save: true
-    BetterButton_SaveAndClose: true
-    BetterButton_SaveAndAdd: true
-  edit:
-    BetterButton_Save: true
-    BetterButton_SaveAndClose: true
-    BetterButton_SaveAndAdd: true
-    BetterButton_Delete: true
-    BetterButtonFrontendLinksAction: false
 SilverStripe\View\Requirements_Backend:
   default_combined_files_folder: 'combined'

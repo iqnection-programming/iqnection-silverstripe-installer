@@ -1,7 +1,7 @@
 {
 	"name": "iqnection/silverstripe-installer",
-	"description": "IQnection SilverStripe Framework Installer",
-	"type": "silverstripe-project",
+	"description": "IQnection SilverStripe Recipe",
+	"type": "silverstripe-recipe",
 	"keywords": ["iqnection"],
 	"license": "BSD-3-Clause",
 	"authors": [
@@ -11,33 +11,45 @@
         }
     ],
 	"require": {
-		"php": ">=5.6.0",
-        "silverstripe/recipe-cms": "^4.3.0@stable",
-		"silverstripe/installer-wizard": "dev-master",
-		"wilr/silverstripe-googlesitemaps": "*",
+		"php": ">=7.1.0",
+        "silverstripe/installer": "^4.7@stable",
 		"undefinedoffset/sortablegridfield": "*",
 		"axllent/silverstripe-minifier": "^1.0",
-		"unclecheese/betterbuttons": "dev-master",
 		"jonom/silverstripe-betternavigator": "^4.0",
 		"axllent/silverstripe-scss": "^1.0",
-		"iqnection-modules/seo":"^2.1",
-		"iqnection-pages/basepages" : "^2.2",
-		"iqnection-themes/mysite" : "2.2.6",
-		"iqnection-modules/linkfield" : "^2.1",
+		"dnadesign/silverstripe-elemental": "4",
+        "dynamic/silverstripe-elemental-blocks": "^3.0",
+        "sheadawson/silverstripe-linkable": "^2.0",
+        "cyber-duck/silverstripe-seo": "^4.2",
+        "axllent/silverstripe-form-fields": "^1.5",
+
+        "iqnection/silverstripe-redirects": "^1.0",
+		"iqnection-pages/basepages" : "dev-master",
+		"iqnection/silverstripe-heading-page": "*",
+		"iqnection-themes/mysite" : "dev-master",
 		"iqnection-modules/embeddedcontent" : "^2.1",
-		"iqnection-modules/pagebuilder" : "^2.1",
 		"iqnection-pages/photogallerypage": "^2.2",
         "iqnection-pages/faqpage": "^2.1",
         "iqnection-pages/videogallerypage": "^2.1",
 		"iqnection-pages/minisitepage" : "^2.1",
 		"iqnection-pages/appointmentpage" : "^2.1",
 		"iqnection-pages/staffpage" : "^2.2",
-		"iqnection-modules/image-utilities":"^0.0.1"
+		"iqnection-modules/image-utilities":"dev-master",
+		"iqnection/silverstripe-wordpress-integration": "^1.0"
 	},
-	"repositories": [{
-		"type": "vcs",
-		"url": "https://github.com/iqnection-programming/silverstripe-gridfield-betterbuttons.git"
-	}],
+	"extra": {
+        "resources-dir": "_resources",
+        "project-files-installed": [
+        	"app/_config/config.yml",
+        	"app/_config/scss.yml",
+            "app/src/HomePage/HomePage.php",
+            "app/src/HomePage/HomePageController.php",
+            "app/src/SiteConfig/SiteConfigExtension.php"
+        ],
+        "public-files-installed": [
+            "robots.txt"
+        ]
+    },
 	"require-dev": {
         "phpunit/phpunit": "^5.7"
 	},

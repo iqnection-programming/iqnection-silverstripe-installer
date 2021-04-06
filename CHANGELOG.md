@@ -1,6 +1,10 @@
 ## Package: iqnection-silverstripe-installer
 # Change Log
 
+## [3.0.0]
+- Converted to Recipe
+- Removed unnecessary files
+
 ## [2.1.11]
 - Updated to include the installer in SS 4.5+
 

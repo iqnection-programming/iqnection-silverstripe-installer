@@ -2,4 +2,4 @@
 Name: mysitescss
 ---
 Axllent\Scss\ScssCompiler:
-  theme_dir: 'resources/themes/mysite'
+  theme_dir: '_resources/themes/mysite'
