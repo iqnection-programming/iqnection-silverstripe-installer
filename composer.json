@@ -13,16 +13,11 @@
 	"require": {
 		"php": ">=7.1.0",
         "silverstripe/installer": "^4.7@stable",
-		"undefinedoffset/sortablegridfield": "*",
-		"axllent/silverstripe-minifier": "^1.0",
-		"jonom/silverstripe-betternavigator": "^4.0",
-		"axllent/silverstripe-scss": "^1.0",
 		"dnadesign/silverstripe-elemental": "4",
         "dynamic/silverstripe-elemental-blocks": "^3.0",
         "sheadawson/silverstripe-linkable": "^2.0",
         "cyber-duck/silverstripe-seo": "^4.2",
         "axllent/silverstripe-form-fields": "^1.5",
-
         "iqnection/silverstripe-redirects": "^1.0",
 		"iqnection-pages/basepages" : "dev-master",
 		"iqnection/silverstripe-heading-page": "*",
