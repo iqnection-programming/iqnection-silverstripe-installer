@@ -2,7 +2,9 @@
 	"name": "iqnection/silverstripe-installer",
 	"description": "IQnection SilverStripe Recipe",
 	"type": "silverstripe-recipe",
-	"keywords": ["iqnection"],
+	"keywords": [
+		"iqnection"
+	],
 	"license": "BSD-3-Clause",
 	"authors": [
         {
@@ -15,7 +17,7 @@
         "silverstripe/installer": "^4.7@stable",
 		"dnadesign/silverstripe-elemental": "4",
         "dynamic/silverstripe-elemental-blocks": "^3.0",
-        "sheadawson/silverstripe-linkable": "^2.0",
+        "dynamic/silverstripe-linkable": "^1.0",
         "cyber-duck/silverstripe-seo": "^4.2",
         "axllent/silverstripe-form-fields": "^1.5",
         "iqnection/silverstripe-redirects": "^1.0",
