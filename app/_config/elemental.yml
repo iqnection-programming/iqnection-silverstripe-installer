@@ -1,0 +1,6 @@
+---
+Name: iqelemental
+---
+Page:
+  extensions:
+    - DNADesign\Elemental\Extensions\ElementalPageExtension
